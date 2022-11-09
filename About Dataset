@@ -1,0 +1,22 @@
+# About Dataset  :
+
+The objective is to create a Real-Time Face MaskDetector which can solve monitoring issues in crowded areas  such
+as  Airports,  Metros,  etc.  using  CNN  and OpenCV
+
+### Dataset Description
+
+The dataset is an artificial set of face mask images
+
+* •Total Images: 1376
+
+* •with_mask images: 
+
+* •without_mask images: 
+
+The goal is to create a Deep Learning model to detect in real-time whether a person is wearing a face mask or not.
+
+### Aim of the Project
+
+The dataset consists of 1376 images consisting of two classes–with_mask and without_mask. 
+
+The objective to create a Face Mask Detector using CNN and OpenCV
