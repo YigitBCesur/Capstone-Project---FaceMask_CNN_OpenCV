@@ -20,3 +20,6 @@ The goal is to create a Deep Learning model to detect in real-time whether a per
 The dataset consists of 1376 images consisting of two classes–with_mask and without_mask. 
 
 The objective to create a Face Mask Detector using CNN and OpenCV
+
+You can reach the dataset and other required files via Google Drive
+https://drive.google.com/drive/folders/1qlf4Y2w4QuGlhy3KewaV2d_6dJycCBir?usp=sharing
